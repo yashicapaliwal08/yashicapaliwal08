@@ -1,7 +1,7 @@
 ![MasterHead](https://previews.123rf.com/images/trueffelpix/trueffelpix1802/trueffelpix180200006/95150923-banner-programming-and-coding-background-vector-illustration-with-icons-and-keywords.jpg)
 <h1 align="center">Hi 👋, I'm Yashica Paliwal</h1>
 <h3 align="center">Code is like a humor to me</h3>
-<img align="right" src="https://gifer.com/en/gifs/cute" width="400px" alt=""/>
+<img align="right" src="https://img.freepik.com/premium-vector/girl-coding-with-laptop-illustration_418302-2384.jpg?w=2000" width="400px" alt=""/>
 - 🌱 I’m currently learning **coding and mern stack development**
 
 - 💬 Ask me about **data structures and algorithms**
