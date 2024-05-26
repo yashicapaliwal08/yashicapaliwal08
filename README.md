@@ -2,13 +2,12 @@
 <h1 align="center">Hi 👋, I'm Yashica Paliwal</h1>
 <h3 align="center">Code is like a humor to me</h3>
 <img align="right" src="https://img.freepik.com/premium-vector/girl-coding-with-laptop-illustration_418302-2384.jpg?w=2000" width="400px" alt=""/>
-- 🌱 I’m currently learning **coding and mern stack development**
+- 🌱 I have expertise in backend development **C#, ASP.NET, SpringBoot and Java**.
 
 - 💬 Ask me about **data structures and algorithms**
 
 - 📫 How to reach me **yashicapaliwal08@gmail.com**
 
-- ⚡ Fun fact **I am cute**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
